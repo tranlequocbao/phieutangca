@@ -1,0 +1,23 @@
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+}
+
+body {
+    padding: 10px;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.table {
+    color: black;
+}
+
+
+/* .col {
+    padding: 20px;
+} */
